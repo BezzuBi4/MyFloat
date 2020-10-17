@@ -1,0 +1,2 @@
+# MyFloat
+Similar Type Float 
